@@ -5,3 +5,5 @@
 -Improved codebase, consolidated CSS selectors and properties
 -Learned how the importance of Semantics in HTML, easier to read.  Learned more on CSS and how to
  up date when HTML is updated.  
+
+![Snap shot of the website Horiseon Social Solution Services.](./assets/images/arspeke8.github.io_HTML-GIT-CSS-Challenge_.png)
